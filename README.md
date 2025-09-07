@@ -12,8 +12,7 @@ Este dashboard foi desenvolvido com o objetivo de consolidar informações estra
 
 ## ⚙️ Tecnologias Utilizadas  
 - **Power BI** para modelagem, tratamento e visualização dos dados.  
-- **Excel** para estruturação e suporte dos dados.  
-- **SQL** para consultas e manipulação de dados (quando aplicável).  
+- **Excel** para estruturação e suporte dos dados. 
 
 ## 💡 Insights Possíveis  
 - Identificação de disparidades de gênero no quadro de funcionários.  
