@@ -1,4 +1,4 @@
-# 📊 Análise de Dashboard – RH  
+# 📊 Análise de RH – Dashboard    
 
 Este dashboard foi desenvolvido com o objetivo de consolidar informações estratégicas da área de Recursos Humanos, possibilitando uma visão clara e interativa sobre o quadro de colaboradores.  
 
