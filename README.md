@@ -1,17 +1,27 @@
-# Analise Dashboard – RH #
+# 📊 Análise de Dashboard – RH  
 
-Esse dashboard foi criado com o intuito de apresentar as seguintes informações:
+Este dashboard foi desenvolvido com o objetivo de consolidar informações estratégicas da área de Recursos Humanos, possibilitando uma visão clara e interativa sobre o quadro de colaboradores.  
 
-Total de Funcionários
+## 🔎 Principais Indicadores  
+- **Total de Funcionários**  
+- **Funcionários por Gênero**  
+- **Elegíveis para Promoção**  
+- **Distância até o Escritório**  
+- **Níveis Hierárquicos**  
+- **Anos de Serviço**  
 
-Funcionários por Gênero
+## ⚙️ Tecnologias Utilizadas  
+- **Power BI** para modelagem, tratamento e visualização dos dados.  
+- **Excel** para estruturação e suporte dos dados.  
+- **SQL** para consultas e manipulação de dados (quando aplicável).  
 
-Elegíveis para Promoção
+## 💡 Insights Possíveis  
+- Identificação de disparidades de gênero no quadro de funcionários.  
+- Análise de tempo médio de serviço e impacto em promoções.  
+- Perfil de retenção e rotatividade dos colaboradores.  
+- Avaliação da distância do escritório como fator de engajamento.  
 
-Distância do Escritório
+## 🚀 Visualização Interativa  
+O dashboard foi construído em **Power BI** e está disponível para exploração no link abaixo:  
 
-Níveis dos Funcionários
-
-Anos de Serviço
-
-[Clique aqui para ver o projeto.](https://app.powerbi.com/view?r=eyJrIjoiYzNkNTAzOTktNmM0MS00NGU0LTk2ZjktMWM5NjZlZDI4M2VkIiwidCI6IjQ3MWI4Y2ExLTgyNzktNDZhNy1iZmY1LWVlMjNiYTkyMGRkNSJ9)
+👉 [Acesse o projeto aqui](https://app.powerbi.com/view?r=eyJrIjoiYzNkNTAzOTktNmM0MS00NGU0LTk2ZjktMWM5NjZlZDI4M2VkIiwidCI6IjQ3MWI4Y2ExLTgyNzktNDZhNy1iZmY1LWVlMjNiYTkyMGRkNSJ9)  
